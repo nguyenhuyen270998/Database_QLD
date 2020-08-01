@@ -1,0 +1,5 @@
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\DTO\bin\Debug\DTO.dll
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\DTO\bin\Debug\DTO.pdb
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\DTO\obj\Debug\DTO.dll
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\DTO\obj\Debug\DTO.pdb

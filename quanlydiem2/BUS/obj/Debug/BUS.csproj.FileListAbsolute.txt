@@ -1,0 +1,11 @@
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\BUS\bin\Debug\BUS.dll
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\BUS\bin\Debug\BUS.pdb
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\BUS\obj\Debug\BUS.dll
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\BUS\obj\Debug\BUS.pdb
+E:\lập trình C#\quanlydiem2\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+E:\lập trình C#\quanlydiem2\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\lập trình C#\quanlydiem2\BUS\obj\Debug\BUS.dll
+E:\lập trình C#\quanlydiem2\BUS\obj\Debug\BUS.pdb
+E:\lập trình C#\quanlydiem2\BUS\bin\Debug\BUS.dll
+E:\lập trình C#\quanlydiem2\BUS\bin\Debug\BUS.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quanlydiem2", "quanlydiem2\quanlydiem2.csproj", "{EAA5C569-DB0F-4CBD-B219-156175D7CDAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BUS", "BUS\BUS.csproj", "{8C4FA389-F317-487F-8DA3-38FF49312F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA5C569-DB0F-4CBD-B219-156175D7CDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA5C569-DB0F-4CBD-B219-156175D7CDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA5C569-DB0F-4CBD-B219-156175D7CDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA5C569-DB0F-4CBD-B219-156175D7CDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C4FA389-F317-487F-8DA3-38FF49312F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C4FA389-F317-487F-8DA3-38FF49312F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C4FA389-F317-487F-8DA3-38FF49312F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C4FA389-F317-487F-8DA3-38FF49312F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

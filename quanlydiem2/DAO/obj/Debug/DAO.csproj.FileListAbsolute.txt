@@ -1,0 +1,7 @@
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\DAO\bin\Debug\DAO.dll
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\DAO\bin\Debug\DAO.pdb
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\DAO\bin\Debug\DTO.dll
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\DAO\bin\Debug\DTO.pdb
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\DAO\obj\Debug\DAO.dll
+C:\Users\MyPC\documents\visual studio 2012\Projects\quanlydiem2\DAO\obj\Debug\DAO.pdb
